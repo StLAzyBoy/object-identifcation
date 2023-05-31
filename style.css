@@ -1,0 +1,13 @@
+.bg
+{
+    background-image: url("download (1).jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a
+{
+background-color: red;
+font-size: 25px;
+text-shadow: 2px 2px 2px grey;
+}
